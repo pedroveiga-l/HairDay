@@ -4,6 +4,7 @@ HairDay é uma aplicação web para agendamento de horários em uma barbearia/sa
 
 Este projeto foi desenvolvido como parte de um desafio prático proposto pela Rocketseat, com foco em praticar JavaScript e manipulação de dados no front-end.
 
+
 ## 🚀 Funcionalidades
 
 Seleção de data para agendamento
@@ -20,6 +21,7 @@ Cancelamento de agendamentos
 
 Atualização dinâmica da interface
 
+
 ## 🛠️ Tecnologias Utilizadas
 
 HTML5
@@ -31,6 +33,7 @@ JavaScript (Vanilla)
 JSON
 
 Biblioteca dayjs para manipulação de datas
+
 
 ## 🎯 Objetivo do Projeto
 
@@ -48,6 +51,7 @@ Separação de responsabilidades no código
 
 Simulação de um sistema real de agendamento
 
+
 ## 🖥️ Como Executar o Projeto
 
 Clone o repositório:
@@ -62,7 +66,8 @@ No terminal digite: npm run server
 
 Em seguida, abra um novo terminal e digite: npm run dev
 
-📚 Aprendizados
+
+## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível reforçar conceitos como:
 
@@ -78,7 +83,8 @@ Interação entre formulário e listagem
 
 Organização visual da aplicação
 
-📌 Observações
+
+## 📌 Observações
 
 Projeto desenvolvido para fins educacionais
 
