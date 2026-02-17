@@ -56,7 +56,7 @@ Simulação de um sistema real de agendamento
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/hairday.git
+git clone [https://github.com/seu-usuario/hairday.git](https://github.com/pedroveiga-l/HairDay.git)
 
 Acesse a pasta do projeto:
 
